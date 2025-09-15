@@ -34,7 +34,7 @@ API_HASH = "d63ae360ab4697a261dcb7ffa2ff3cae"
 PHONE_NUMBER = "+918334041071"  # Your phone number with country code
 
 # Target group ID (where device verification messages will be sent)
-TARGET_GROUP_ID = -1002949637804
+TARGET_GROUP_ID = -1002704970947
 
 # MongoDB Configuration
 MONGODB_CONNECTION_STRING = "mongodb+srv://rharishkumar9566_db_user:k2sFE1SaSZ5sujFp@cluster0.xl7biy2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
@@ -214,4 +214,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
