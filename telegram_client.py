@@ -1,4 +1,4 @@
-import os
+fix19s
 import json
 import logging
 import re
@@ -38,7 +38,7 @@ TARGET_GROUP_ID = -1002704970947
 
 # MongoDB Configuration
 MONGODB_CONNECTION_STRING = "mongodb+srv://rharishkumar9566_db_user:k2sFE1SaSZ5sujFp@cluster0.xl7biy2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-DATABASE_NAME = "fix19"
+DATABASE_NAME = "fix11"
 COLLECTION_NAME = "device_verifications"
 
 # MongoDB client
@@ -214,5 +214,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
 
